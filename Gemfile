@@ -11,3 +11,5 @@ gem 'haml-rails'
 gem 'omniauth-github'
 gem 'omniauth-facebook'
 gem 'omniauth-twitter'
+
+gem 'better_errors'
