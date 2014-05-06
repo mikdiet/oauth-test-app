@@ -31,8 +31,11 @@ GEM
     better_errors (1.1.0)
       coderay (>= 1.0.0)
       erubis (>= 2.6.6)
+    binding_of_caller (0.7.2)
+      debug_inspector (>= 0.0.1)
     builder (3.2.2)
     coderay (1.1.0)
+    debug_inspector (0.0.2)
     erubis (2.7.0)
     faraday (0.9.0)
       multipart-post (>= 1.2, < 3)
@@ -132,6 +135,7 @@ PLATFORMS
 
 DEPENDENCIES
   better_errors
+  binding_of_caller
   haml-rails
   jbuilder (~> 2.0)
   omniauth-facebook
