@@ -1,7 +1,11 @@
 github:
   key: '7420e92347d1d1c70e9c'
   secret: 'd67b789e77ebc190b7ac593c4b6f93e62d62f2f8'
-  
+
 facebook:
   key: '570866383011866'
   secret: '032dfd5694c3f49ac17f10ff7dcd8bdf'
+
+twitter:
+  key: 'psAqSDlkBm8yLboDT2TuoVa7m'
+  secret: 'X7Q6nvOoqtfMWgD4wDYvTYj23OLj2h3R8wV8j1NzyvDtIJ8Cjw'

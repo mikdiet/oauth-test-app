@@ -5,3 +5,7 @@ github:
 facebook:
   key: '594788120618489'
   secret: 'a885da7a359f58983aba9d37719c2bc0'
+  
+twitter:
+  key: 'BHjEVyXMIzD0hN7ZAE7OOuR1P'
+  secret: 'KRQAzLwzOILj7D8RtBHubRqrLfBUyGnDOs6u4dBJO0Npe44JOI'

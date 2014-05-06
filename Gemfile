@@ -10,3 +10,4 @@ gem 'spring',    group: :development
 gem 'haml-rails'
 gem 'omniauth-github'
 gem 'omniauth-facebook'
+gem 'omniauth-twitter'
