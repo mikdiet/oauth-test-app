@@ -9,4 +9,4 @@ gem 'spring',    group: :development
 
 gem 'haml-rails'
 gem 'omniauth-github'
-gem 'better_errors'
+gem 'omniauth-facebook'

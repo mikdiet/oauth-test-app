@@ -28,11 +28,7 @@ GEM
       thread_safe (~> 0.1)
       tzinfo (~> 1.1)
     arel (5.0.1.20140414130214)
-    better_errors (1.1.0)
-      coderay (>= 1.0.0)
-      erubis (>= 2.6.6)
     builder (3.2.2)
-    coderay (1.1.0)
     erubis (2.7.0)
     faraday (0.9.0)
       multipart-post (>= 1.2, < 3)
@@ -69,6 +65,8 @@ GEM
     omniauth (1.2.1)
       hashie (>= 1.2, < 3)
       rack (~> 1.0)
+    omniauth-facebook (1.6.0)
+      omniauth-oauth2 (~> 1.1)
     omniauth-github (1.1.2)
       omniauth (~> 1.0)
       omniauth-oauth2 (~> 1.1)
@@ -122,9 +120,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  better_errors
   haml-rails
   jbuilder (~> 2.0)
+  omniauth-facebook
   omniauth-github
   rails (~> 4.1.0)
   rails_config

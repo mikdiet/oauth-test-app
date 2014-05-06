@@ -1,3 +1,7 @@
 github:
   key: '6d165e60cc8a6460cd07'
   secret: 'f487584b54fb3747c00240f65a7c8b3e132460c9'
+  
+facebook:
+  key: '594788120618489'
+  secret: 'a885da7a359f58983aba9d37719c2bc0'
