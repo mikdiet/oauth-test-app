@@ -4,4 +4,7 @@ class WelcomeController < ApplicationController
 
   def oauth
   end
+
+  def error
+  end
 end
